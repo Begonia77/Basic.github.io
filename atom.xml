@@ -6,15 +6,35 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-04-27T09:02:56.758Z</updated>
+  <updated>2022-04-27T10:25:35.517Z</updated>
   <id>http://example.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Begonia77</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>学习计概</title>
+    <link href="http://example.com/2022/04/27/Learn-com/"/>
+    <id>http://example.com/2022/04/27/Learn-com/</id>
+    <published>2022-04-27T10:24:47.000Z</published>
+    <updated>2022-04-27T10:25:35.517Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="第0章-绪论"><a href="#第0章-绪论" class="headerlink" title="第0章 绪论"></a>第0章 绪论</h2><h3 id="算法的作用"><a href="#算法的作用" class="headerlink" title="算法的作用"></a>算法的作用</h3><p><strong>算法是完成一项任务所遵循的一系列步骤。</strong></p><blockquote><p>e.g.烹饪的算法是菜谱、演奏乐器的算法是乐谱</p></blockquote><h2 id="第1章-数据存储"><a href="#第1章-数据存储" class="headerlink" title="第1章 数据存储"></a>第1章 数据存储</h2><p>内容</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;第0章-绪论&quot;&gt;&lt;a href=&quot;#第0章-绪论&quot; class=&quot;headerlink&quot; title=&quot;第0章 绪论&quot;&gt;&lt;/a&gt;第0章 绪论&lt;/h2&gt;&lt;h3 id=&quot;算法的作用&quot;&gt;&lt;a href=&quot;#算法的作用&quot; class=&quot;headerlink&quot; title=</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
